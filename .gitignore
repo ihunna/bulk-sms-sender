@@ -1,0 +1,7 @@
+build
+dist
+venv
+.env
+esmex.spec
+leads.json
+proxies.txt
